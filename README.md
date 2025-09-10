@@ -1,42 +1,35 @@
-# 👋 Sobre mim
+# 👨‍💻 Lucas Siqueira
 
-Olá! Eu sou Lucas Siqueira, funcionário público atuando como **Agente Administrativo de TI**.  
-Sou apaixonado por tecnologia, games, automobilismo e hardware, sempre buscando novos desafios e aprendizados.
-
-Cursei **três semestres de Gestão da Tecnologia da Informação** e atualmente estudo **Engenharia da Computação** para expandir minhas habilidades e conhecimentos.
+Agente Administrativo de TI | Estudante de Engenharia da Computação  
+Apaixonado por tecnologia, hardware, games e automobilismo.
 
 ---
 
-## 💻 Minhas Skills
+## 💻 Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
 </p>
 
 ---
 
-## 📚 Formação
+## 🎓 Formação
 
-- **Três semestres de Gestão da Tecnologia da Informação**
-- **Engenharia da Computação** (cursando)
+- Gestão da TI (3 semestres)
+- Engenharia da Computação (cursando)
 
----
-
-## 🎮 Hobbies e Interesses
-
-- Video games
-- Automobilismo
-- Montagem e manutenção de hardware
 
 ---
 
-## 🌐 Conecte-se comigo
+## 🌐 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Siqueira-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lucas-siqueira-4600aa370?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Siqueira-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lucas-siqueira-4600aa370)
 
 ---
 
-> “Tecnologia é sobre conectar pessoas, transformar ideias e criar soluções para o futuro.”  
+> “Tecnologia é sobre conectar pessoas, transformar ideias e criar soluções para o futuro.”
+
