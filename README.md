@@ -19,8 +19,8 @@ Apaixonado por tecnologia, hardware, games e automobilismo.
 
 ## 🎓 Formação
 
-- Gestão da TI (3 semestres)
-- Engenharia da Computação (cursando)
+- Gestão da Tecnologia da Informação (GTI) - FATEC (3 semestres)
+- Engenharia da Computação - UNIVESP (cursando)
 
 
 ---
