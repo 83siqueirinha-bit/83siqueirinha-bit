@@ -1,4 +1,4 @@
-# 👨‍💻 Lucas Siqueira
+# Lucas Siqueira
 
 Agente Administrativo de TI | Estudante de Engenharia da Computação  
 Apaixonado por tecnologia, hardware, games e automobilismo.
